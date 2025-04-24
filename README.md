@@ -1,11 +1,12 @@
 # Ex02 Django ORM Web Application
-## Name: Hemapriyan P
-# AIM
-To develop a Django application to store and retrieve data from a bank loan database using Object Relational Mapping(ORM).
+## Date: 
 
-# ENTITY RELATIONSHIP DIAGRAM
-![image](https://github.com/user-attachments/assets/e39b80d8-daba-4d44-97a0-9974acad7e38)
-![WhatsApp Image 2025-03-25 at 08 47 55_c1657002](https://github.com/user-attachments/assets/0394d65a-d5bf-40c5-8309-35c8343a567b)
+## AIM
+To develop a Django application to store and retrieve data from Movies Database using Object Relational Mapping(ORM).
+
+## ENTITY RELATIONSHIP DIAGRAM
+![webdevelop](https://github.com/user-attachments/assets/3319e6c1-3f49-4616-a62e-d3a8e2cfcf5d)
+
 
 
 ## DESIGN STEPS
